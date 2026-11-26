@@ -14,9 +14,9 @@
 
 ## Professional Introduction
 
-I’m a UI/UX and digital product professional with 7+ years of experience shaping user-friendly web experiences from interface design through front-end implementation. My work brings together thoughtful visual design, responsive web development, and practical product understanding—helping teams deliver polished websites and useful business tools.
+I’m a UI/UX and digital product professional with 7+ years of experience shaping user-friendly web experiences from interface design through front-end implementation. My work brings together thoughtful design, responsive development, and practical business goals.
 
-My background includes travel technology platforms, corporate websites, B2B booking experiences, dashboards, and WordPress solutions. I work across design and development, using tools such as Figma, Adobe Photoshop, WordPress, Angular, and modern AI-assisted tools to support a focused, iterative workflow.
+My background includes travel technology platforms, corporate websites, B2B booking experiences, dashboards, and WordPress solutions. I work across design and development, using tools such as Figma, HTML, CSS, Bootstrap, Angular, WordPress, and WooCommerce.
 
 ## About Me
 
@@ -32,9 +32,10 @@ My background includes travel technology platforms, corporate websites, B2B book
 | --- | --- |
 | **UI/UX & Product Design** | UI/UX Design, Responsive Web Design, Dashboard Design, B2B Product Interface Design |
 | **Front-End Development** | HTML5, CSS3, Bootstrap, Angular UI Development |
-| **CMS & Commerce** | WordPress, WooCommerce |
+| **CMS & Commerce** | WordPress, WooCommerce, PHP |
 | **Performance** | Website Performance Optimization |
 | **Visual Design** | Figma, Adobe Photoshop |
+| **Version Control** | Git, GitHub |
 
 ## Tools and Technologies
 
@@ -67,22 +68,37 @@ My background includes travel technology platforms, corporate websites, B2B book
 - **Design-to-development collaboration:** Carry visual intent through to front-end implementation with attention to usability and detail.
 - **Performance-minded delivery:** Consider website performance as part of creating effective web experiences.
 
-## Featured Projects
+## Featured Projects & Digital Experiences
 
-*Project details and repository links will be added when available. No projects are listed here until their details can be verified.*
+I have contributed to designing and developing modern, responsive, and user-friendly websites and digital platforms across travel technology, corporate travel, aviation, and e-commerce. The links below represent portfolio involvement; specific contributions and technology stacks can be detailed individually for each project.
 
-| Project | Overview | Technologies |
-| --- | --- | --- |
-| **[Project name to be added]** | [Add a verified project summary and your role.] | [Add relevant technologies.] |
-| **[Project name to be added]** | [Add a verified project summary and your role.] | [Add relevant technologies.] |
-| **[Project name to be added]** | [Add a verified project summary and your role.] | [Add relevant technologies.] |
+| Project | Industry | Live Website |
+|---|---|---|
+| **QuadLabs** | Travel Technology & Enterprise Solutions | [Visit Website](https://www.quadlabs.com/) |
+| **Travog** | Corporate Travel & Expense Management | [Visit Website](https://www.travog.com/) |
+| **Cordova Safety** | Safety Products & E-commerce | [Visit Website](https://www.cordovasafety.com/) |
+| **TripSource SBT** | Corporate Travel Booking | [Visit Platform](https://www.tripsource.co.in/SBT) |
+| **Skylord Travel** | Travel & Tourism | [Visit Website](https://www.skylordtravel.com/) |
+| **Saudia Airlines** | Aviation & Airline Digital Experience | [Visit Website](https://www.saudia.com/) |
+
+## My Contributions & Expertise
+
+- UI/UX Design and User Experience Optimization
+- Responsive Website Design and Development
+- Front-End Development using HTML5, CSS3, and Bootstrap
+- WordPress and WooCommerce Development
+- Corporate Travel Booking Interfaces
+- Website Performance Optimization
+- Cross-Browser and Mobile Responsiveness
+- Modern Web Interfaces and Design Systems
+- AI-Assisted Development and Productivity
 
 ## GitHub Statistics
 
 Statistics are intentionally not displayed until verified data or preferred GitHub stats cards are provided.
 
-- **GitHub profile:** [Add verified profile metrics or a preferred stats card]
-- **Contribution activity:** [Add verified contribution details, if desired]
+- **GitHub profile:** [uidevloper09](https://github.com/uidevloper09)
+- **Contribution activity:** Add verified contribution details if desired
 
 ## Contact and Social Links
 
